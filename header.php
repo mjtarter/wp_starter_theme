@@ -49,4 +49,3 @@
 			</div>
 		</div>
 	</header><!-- #masthead -->
-	<div style="height:1000px;"></div>
